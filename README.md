@@ -36,6 +36,9 @@ Random Forest consistently demonstrated superior performance in Accuracy across 
 - I developed a Streamlit web application as an additional enhancement to the project, providing further functionality and accessibility.
 - Users can upload financial statements and classify tables using the trained Random Forest model.
 
+- ![image](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements/assets/129932233/aba6000e-0b64-40eb-a5b0-954bbb083a25)
+
+
 ## Links
 - [App link](https://jk-table-classification-from-financial-statements.streamlit.app/)
 - [GitHub Repository](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements.git)
