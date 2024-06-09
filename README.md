@@ -5,6 +5,9 @@ The objective of this project is to classify tables extracted from financial sta
 
 ## Workflow
 
+![image](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements/assets/129932233/0c887440-4a8c-430b-9203-5c42e0444e63)
+
+
 1. **Data Extraction**
    - Utilized Beautiful Soup, a Python library for parsing HTML documents, to extract text data from tables within financial statements.
    - Structured the extracted text data into DataFrames, assigning each entry to its respective class for further processing and analysis.
@@ -36,12 +39,11 @@ Random Forest consistently demonstrated superior performance in Accuracy across 
 - I developed a Streamlit web application as an additional enhancement to the project, providing further functionality and accessibility.
 - Users can upload financial statements and classify tables using the trained Random Forest model.
 
-- ![image](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements/assets/129932233/aba6000e-0b64-40eb-a5b0-954bbb083a25)
+  ![image](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements/assets/129932233/aba6000e-0b64-40eb-a5b0-954bbb083a25)
 
 
 ## Links
 - [App link](https://jk-table-classification-from-financial-statements.streamlit.app/)
-- [GitHub Repository](https://github.com/JayaKrishanS/Table-Classification-from-Financial-Statements.git)
 
 ## Note
 - To test the model's performance, you can execute the 'test_model.py' file on your system. It's essential to note that the 'model.pkl' and 'vectorizer.pkl' files are required for the functionality of the model.
